@@ -1,6 +1,6 @@
 import app from './app.js';
 import {sequelize} from './database/database.js';
-/*
+/* Como ya he creado las rutas, ya no sirve importar los modelos.
 import './models/Project.js'
 import './models/Task.js'*/
 

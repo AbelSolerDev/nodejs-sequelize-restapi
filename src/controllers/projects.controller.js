@@ -1,7 +1,7 @@
 
 
 
-export const getProject = (req, res) => {
+export const getProjects = (req, res) => {
   res.send('getting projects')
 }
 
